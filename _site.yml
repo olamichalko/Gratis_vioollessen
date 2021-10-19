@@ -1,0 +1,21 @@
+name: "Vioollessen"
+navbar:
+  title: "Vioollessen"
+  right:
+    - text: "Schrijf je in"
+      href: https://decentrale.be//vioolles
+    - text: "Welkom"
+      href: index.html
+    - text: "Lessen"
+      href: about.html
+    - text: "Onderzoek"
+      href: onderzoek.html
+    - text: "Praktisch"
+      href: praktisch.html
+    - text: "Contact"
+      href: contact.html
+  
+
+
+
+

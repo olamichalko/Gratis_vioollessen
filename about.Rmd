@@ -1,0 +1,87 @@
+---
+title: "Vioollessen"
+---
+
+<style>
+h1 {
+  color: #006DB0;
+}
+
+navbar-brand {
+color:#FFAD01!important;
+font-weight: 500;
+font-size: 20px;
+}
+
+.col2 {
+    columns: 2 200px;         
+    -webkit-columns: 2 200px;
+    -moz-columns: 2 200px;   
+  }
+.col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+
+</style> 
+
+
+<div class="col2">  
+<span style="color: #006DB0;">**Wanneer?**</span>
+
+Vanaf november 2021 tot en met juni 2022. 
+
+<span style="color: #006DB0;">**Wie heeft les?**</span>
+
+De vioollessen worden gegeven door Aniko Boros. 
+
+<span style="color: #006DB0;">**Hoe vaak?**</span>
+
+Elke week, op donderdag. 
+
+<span style="color: #006DB0;">**Hoe lang duurt een les?**</span>
+
+20 min 
+
+<span style="color: #006DB0;">**Hoe worden de lessen gegeven?**</span>
+
+Individueel. 
+
+
+<span style="color: #006DB0;">**Waar?**</span>
+
+[De Centrale](www.decentrale.be) | intercultureel centrum
+
+Kraankindersstraat 2 - 9000 Gent
+
+
+<span style="color: #006DB0;">**Krijgt mijn kind een viool of moeten we ze zelf aankopen?**</span>
+
+De instrumenten worden bezorgd door de Centrale. Er is 50 euro waarborg die wordt terugbetaald nadat het instrument wordt terugbezorgd.
+
+<span style="color: #006DB0;">**Moet mijn kind ook notenleer volgen?**</span>
+
+Nee. 
+
+<span style="color: #006DB0;">**Wie komt in aanmerking voor de gratis vioolles?**</span>
+
+Kinderen tussen 8 en 12 jaar.
+
+<span style="color: #006DB0;">**Wat zijn de voorwaarden om gratis vioolles te kunnen volgen?**</span>
+
+Deelname aan het onderzoek van IPEM UGent.
+
+
+</div>
+
+ <img style="float: bottom; margin: 20px 0px 0px 0px; width: 45%" src="ashkan.jpg" alt="my img" />
+<img style=" margin: 20px 00px 0px 50px; width: 45%" src="chuttersnap.jpg" alt="my img" />
+  
+
+<div class="col2">  
+<span style="font-size: 8px;"> Photo by Ashkan Forouzani on <a href="https://unsplash.com/@ashkfor121?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"> Unsplash</a></span>
+
+<span style="font-size: 8px;"> Photo by Chuttersnap on <a href="https://unsplash.com/s/photos/violinist?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a></span>
+  
+</div>

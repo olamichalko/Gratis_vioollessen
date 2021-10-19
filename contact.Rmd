@@ -1,0 +1,42 @@
+---
+title: "Contact"
+---
+
+<style>
+h1 {
+  color: #006DB0;
+}
+
+navbar-brand {
+color:#FFAD01!important;
+font-weight: 500;
+font-size: 20px;
+}
+</style> 
+
+
+<img style="float: right; margin: 0px 15px 15px 0px;" src="car_viool.png" width="100" />
+
+**Meer vragen over de vioollessen?**
+
+Shalan Alhamwy
+
+shalan.alhamwy@gent.be
+
+De Centrale 
+
+
+**Meer vragen over het onderzoek?**
+
+Aleksandra Michalko 
+
+aleksandra.michalko@ugent.be
+
+0484/64.70.13
+
+IPEM
+
+<img style="float: bottom; margin: 120px 15px 15px 0px;" src="DE_CENTRALE.jpg" width="150" />
+<img style=" margin: 120px 15px 15px 0px;" src="logo_UGent.png" width="150" />
+<img style=" margin: 120px 15px 15px 0px;" src="logoconbots2.png" width="150" />
+

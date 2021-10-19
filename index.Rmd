@@ -1,0 +1,35 @@
+---
+title: "Welkom"
+---
+
+<style>
+h1 {
+  color: #006DB0;
+}
+
+.navbar-brand {
+color:#FFAD01!important;
+font-weight: 500;
+font-size: 20px;
+}
+</style> 
+
+<img style="float: right; margin: 0px 15px 15px 50px;" src="car_viool.png" width="200" />
+
+Vanaf november 2021 wordt aan de Centrale (intercultureel centrum) gratis vioolles gegeven! 
+
+
+Deze lessen worden georganiseerd in het kader van een wetenschappelijke studie. Deelname aan het onderzoek is een voorwaarde om de wekelijkse vioollessen gratis te kunnen volgen bij de Centrale.
+
+
+Op deze website vind je alle noodzakelijke informatie.
+Wens je nog meer info, dan kan je mailen via de contact-pagina.
+
+Inschrijven? Klik **[HIER](https://decentrale.be//vioolles)**
+
+
+<img style="float: bottom; margin: 120px 15px 15px 0px;" src="DE_CENTRALE.jpg" width="150" />
+<img style=" margin: 120px 15px 15px 0px;" src="logo_UGent.png" width="150" />
+<img style=" margin: 120px 15px 15px 0px;" src="logoconbots2.png" width="150" />
+
+
