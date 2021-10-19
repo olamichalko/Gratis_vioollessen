@@ -25,7 +25,7 @@ font-size: 20px;
 
 <img style="float: center; margin: 60px 200px 20px 100px;" src="DE_CENTRALE.jpg" width="150" />
 
-De wekelijkse lessen vinden plaats aan de Centrale:
+De wekelijkse lessen vinden plaats in de Centrale:
 
 De Centrale | intercultureel centrum
 
@@ -36,13 +36,13 @@ https://decentrale.be
 Inkom Concertzalen
 Ham 72 (glazen deur)
 
-<img style="float: right; margin: 0px 50px 10px 0px;" src="Centrale_map.png" width="400" />
+<img style="float: right; margin: 0px 50px 500px 0px;" src="Centrale_map.png" width="400" />
 
 
 <img style="float: center; margin: 0px 0px 0px 100px;" src="logo_UGent.png" width="150" />
 
 
-1 keer om 2 maanden kom je voor 1 les bij IPEM, aan De Krook:
+1 keer om 2 maanden kom je voor 1 les bij IPEM, in De Krook:
 
 
 Miriam Makebaplein 1, 
@@ -59,11 +59,11 @@ https://dekrook.be/
 
 <span style="color: #006DB0;">**Aan/Afwezigheid**</span>
 
-Deelname aan het onderzoek is een voorwaarde om de wekelijkse vioollessen gratis te kunnen volgen bij de Centrale. Het is dus erg belangrijk dat leerlingen **<span style="color: #006DB0;">OP ALLE 4 LESSEN AANWEZIG</span>** zijn.
+Deelname aan het onderzoek is een voorwaarde om de wekelijkse vioollessen gratis te kunnen volgen bij de Centrale. Het is dus erg belangrijk dat leerlingen **<span style="color: #006DB0;">OP ALLE 4 LESSEN IN DE KROOK AANWEZIG</span>** zijn.
 
 <span style="color: #006DB0;">**Continuïteit**</span>
 
-Deze studie is een longitudinale studie. De voorziene duurtijd is vanaf november tot en met juni.
+De voorziene duurtijd is vanaf november 2021 tot en met juni 2022.
 
 
 
