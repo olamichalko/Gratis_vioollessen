@@ -3,7 +3,7 @@ navbar:
   title: "Vioollessen"
   right:
     - text: "Schrijf je in"
-      href: https://decentrale.be//vioolles
+      href: https://decentrale.be/viool
     - text: "Welkom"
       href: index.html
     - text: "Lessen"
